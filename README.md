@@ -6,13 +6,11 @@ Since 2020 I've been living and breathing web development and creating modern an
 
 I'm always trying to grow and learn something new. I lose track of time when I'm watching a movie, studying languages or simply reading a book.
 
-### What I'm focusing on ⚡
+### What I'm focusing on ⚡💻
 
 Currently improving my PHP and React skills...
 
-[![PHP badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
-
-### Find me elsewhere ⚡
+### Find me elsewhere 🌍
 
  [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vanessa-pereira-529a03217/])
 

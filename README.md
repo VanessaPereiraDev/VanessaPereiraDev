@@ -10,9 +10,11 @@ I'm always trying to grow and learn something new. I lose track of time when I'm
 
 Currently improving my PHP and React skills...
 
+[![PHP badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
+
 ### Find me elsewhere ⚡
 
- [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://shields.io/](https://www.linkedin.com/in/vanessa-pereira-529a03217/))
+ [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vanessa-pereira-529a03217/])
 
 
 

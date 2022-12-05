@@ -1,6 +1,6 @@
 ### Hey, I'm Vanessa Pereira! 👋
 
-I work as a web developer (full-stack). I'm based in Porto, Portugal.
+I work as a frontend developer. I'm based in Porto, Portugal.
 
 Since 2020 I've been living and breathing web development and creating modern and user friendly interfaces. I've the chance to immerse myself in some projects, helping to make this world a little better through code. ✨
 

@@ -12,9 +12,9 @@ Currently improving my PHP and React skills...
 
 ### Find me elsewhere ⚡
 
+ [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://shields.io/](https://www.linkedin.com/in/vanessa-pereira-529a03217/))
 
 
-My Linkedin: https://www.linkedin.com/in/vanessa-pereira-529a03217/
 
 
 
